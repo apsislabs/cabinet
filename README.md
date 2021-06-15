@@ -8,7 +8,7 @@ We recommend using [`degit`](https://github.com/Rich-Harris/degit) to scaffold y
 
 ```sh
 npm install -g degit
-degit apsislabs/wp-cabinet path/to/your/project
+degit apsislabs/cabinet path/to/your/project
 ```
 
 ## Usage
